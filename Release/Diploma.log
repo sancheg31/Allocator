@@ -1,0 +1,13 @@
+﻿  Allocator.cpp
+  CacheBin.cpp
+  Descriptor.cpp
+  Heap.cpp
+  main.cpp
+  Page.cpp
+  PageMap.cpp
+  SizeClasses.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Diploma.vcxproj -> E:\Projects\VS\Diploma\Diploma\Release\Diploma.exe
